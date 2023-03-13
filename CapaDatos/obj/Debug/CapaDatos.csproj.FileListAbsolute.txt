@@ -1,0 +1,6 @@
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Mauricio\Downloads\Prueba\CapaDatos\obj\Debug\CapaDatos.pdb
